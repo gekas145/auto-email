@@ -3,7 +3,7 @@ I once needed to send many mails with personalized greetings and same contents. 
 
 How to use:
 
-- put greetings(first column) and email addresses(second column) to `database.xlsx`, do not add any headers;
+- put greetings which will be appended to main text(first column) and email addresses(second column) to `database.xlsx`, do not add any headers;
 - put mail body text and subject to `main_text.txt` and `subject.txt` respectively;
 - specify your mail address and password in `MailSender.py`;
 - if needed, you can set `attachment_path` to attach a file to your message(tested with pdfs only), let it be equal to `None` otherwise;
