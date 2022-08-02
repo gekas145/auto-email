@@ -1,5 +1,5 @@
 # auto-email
-I once needed to send many mails with personalized greetings and same contents. This repository contains code that automates this sending. It works with `gmail` host, in order to be able to log in to your gmail account you will have to define special password in your google account for 3rd party apps. 
+I once needed to send many mails with personalized greetings and same contents. This repository contains code that automates this sending. It works with `gmail` host, in order to be able to log in to your gmail account you will have to define special password for 3rd party apps in your google account. 
 
 How to use:
 
